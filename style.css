@@ -2,3 +2,63 @@
 {
     border-style: solid;
 }
+.dotted
+{
+    border-style: dotted;
+
+}
+.double
+{
+    border-style: double;
+}
+.groove
+{
+    border-style: groove;
+}
+.ridge
+{
+    border-style: ridge;
+}
+.inset
+{
+border-style: inset;
+}
+.outset
+{
+    border-style: outset;
+    border-color: red;
+}
+.none
+{
+    border-style: none;
+}
+.hidden
+{
+    border-style: hidden;
+}
+.tamanho1
+{
+border-style: solid;
+border-width: 5px;
+}
+.tamanho2
+{
+    border-style: dotted;
+    border-width: 5px;
+}
+.vermelho
+{
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
+.cores
+{
+    border-style: solid;
+    border-width: 5px;
+    border-color: yellow red blue blueviolet; /* yellow ficou no topo; red ficou na direita; blue ficou bottom; blueviolet ficou a esquerda*/  
+}
+.abreviada
+{
+    border: 5px  groove red;
+}
